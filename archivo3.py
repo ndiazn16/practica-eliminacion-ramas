@@ -1,1 +1,2 @@
-print('3er Archivo como nuestra estrella avatar')
+print('En este archivo se va a contar')
+console.log('Ganamos jeje')
